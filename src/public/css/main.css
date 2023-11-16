@@ -1,0 +1,12 @@
+body {
+    background: #fdfdfd;
+    color: rgb(255, 0, 0);
+}
+/* styles.css */
+
+.medieval-style {
+    text-align: center;
+    color: #8B4513; /* Color marrón oscuro para dar un toque medieval */
+    font-family: 'Times New Roman', Times, serif; /* Fuente estilo medieval */
+    flex-direction: column; /* para que quede abajo del texto */
+}
